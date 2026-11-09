@@ -15,7 +15,7 @@ Sitio de DolceMel con la composición de la referencia, el logo original y azul 
 
 Las fotos de casamiento, cumpleaños de 15, Rogel, cheesecake de maracuyá, cheesecake de frutos rojos y la selección adicional de brigadeiros son generadas. Se indican como **Imagen ilustrativa** en las tarjetas y en los detalles. Para reemplazarlas por fotos propias, cambiar `image` e `illustrative` en `catalog.json`.
 
-El retrato de la pastelera de la referencia todavía no está entre los archivos subidos. La sección de historia usa una foto propia de producto mientras tanto.
+La sección de historia usa la foto original `WhatsApp Image 2026-11-09 at 19.03.20.jpeg`, proporcionada por el propietario.
 
 ## Ver localmente
 
