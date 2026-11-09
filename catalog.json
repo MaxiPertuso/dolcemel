@@ -1,0 +1,21 @@
+[
+  {"id":"frutillas","name":"Tarta de frutillas","category":"pasteleria","description":"Frutillas frescas y una presentación para compartir.","image":"WhatsApp Image 2026-11-09 at 10.46.52 (1).jpeg","illustrative":false},
+  {"id":"margaritas","name":"Torta Margaritas","category":"tortas","description":"Un diseño delicado, con flores que celebran tu día.","image":"WhatsApp Image 2026-11-09 at 10.46.52 (2).jpeg","illustrative":false},
+  {"id":"brigadeiros-clasicos","name":"Brigadeiros de chocolate","category":"brigadeiros","description":"Pequeños bocados de chocolate para tu mesa dulce.","image":"WhatsApp Image 2026-11-03 at 17.43.05.jpeg","illustrative":false},
+  {"id":"casamiento","name":"Torta de casamiento","category":"especiales","description":"Un diseño especial para celebrar el comienzo de su historia.","image":"assets/casamiento.png","illustrative":true},
+  {"id":"quince","name":"Torta de 15 años","category":"especiales","description":"Una torta soñada para una noche inolvidable.","image":"assets/quince.png","illustrative":true},
+  {"id":"maracuya","name":"Cheesecake de maracuyá","category":"pasteleria","description":"Una combinación cremosa con el toque fresco del maracuyá.","image":"assets/maracuya.png","illustrative":true},
+  {"id":"frutos-rojos","name":"Cheesecake de frutos rojos","category":"pasteleria","description":"Cremoso y frutal, para disfrutar de a una porción.","image":"assets/frutos-rojos.png","illustrative":true},
+  {"id":"rogel","name":"Torta Rogel","category":"pasteleria","description":"Capas finitas, dulce de leche y un delicado merengue.","image":"assets/rogel.png","illustrative":true},
+  {"id":"brigadeiros-blancos","name":"Brigadeiros blancos","category":"brigadeiros","description":"Bocados delicados. Consultá las opciones para tu evento.","image":"WhatsApp Image 2026-11-03 at 17.43.05.jpeg","illustrative":false},
+  {"id":"brigadeiros-surtidos","name":"Selección de brigadeiros","category":"brigadeiros","description":"Una mesa de pequeños placeres para compartir y celebrar.","image":"assets/brigadeiros.png","illustrative":true},
+  {"id":"nubes","name":"Torta Nubes","category":"tortas","description":"Celeste suave y nubes blancas para una celebración dulce.","image":"WhatsApp Image 2026-11-09 at 10.46.52 (4).jpeg","illustrative":false},
+  {"id":"vintage","name":"Torta Vintage","category":"tortas","description":"Rosa, perlas y detalles de manga. Personalizá tu número.","image":"WhatsApp Image 2026-11-09 at 10.46.52 (3).jpeg","illustrative":false},
+  {"id":"estrellada","name":"Noche Estrellada","category":"tortas","description":"Una torta de inspiración artística con detalles especiales.","image":"WhatsApp Image 2026-11-09 at 10.46.52 (5).jpeg","illustrative":false},
+  {"id":"selva","name":"Mi primera aventura","category":"especiales","description":"Animales y naturaleza para festejar un primer cumpleaños.","image":"WhatsApp Image 2026-11-09 at 11.27.54.jpeg","illustrative":false},
+  {"id":"institucional","name":"Torta institucional","category":"especiales","description":"Los colores y el emblema de tu ocasión, en una torta.","image":"WhatsApp Image 2026-11-09 at 10.46.52 (6).jpeg","illustrative":false},
+  {"id":"merengue","name":"Torta de merengue","category":"pasteleria","description":"Una terminación de merengue tostado para tu mesa dulce.","image":"WhatsApp Image 2026-10-14 at 14.29.56.jpeg","illustrative":false},
+  {"id":"confeti","name":"Torta Confeti","category":"tortas","description":"Tonos suaves y pequeños detalles para un día de festejo.","image":"WhatsApp Image 2026-11-09 at 10.46.52.jpeg","illustrative":false},
+  {"id":"clasica","name":"Torta Clásica","category":"tortas","description":"Una terminación sencilla y elegante. Contanos tu idea.","image":"WhatsApp Image 2026-11-03 at 17.27.37.jpeg","illustrative":false},
+  {"id":"mesa-dulce","name":"Torta y mesa dulce","category":"especiales","description":"Combiná tu torta con pequeños dulces para acompañar.","image":"WhatsApp Image 2026-11-09 at 11.27.55.jpeg","illustrative":false}
+]
